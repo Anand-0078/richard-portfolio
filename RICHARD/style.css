@@ -3,9 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
-    background: radial-gradient(skyblue,white,hotpink);
-}
 .up-arrow{
    position: fixed;
    top: 540px;
@@ -595,4 +592,5 @@ nav{
     .name-one { font-size: 14px; }
     .skill-para span { font-size: 10px; padding: 4px 8px; }
     .close-icon{display: block;}
+
 }

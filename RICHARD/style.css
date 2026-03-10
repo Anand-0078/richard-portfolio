@@ -589,8 +589,9 @@ nav{
     .header-section { display: none; }
     .hero-section img { width: 120px; height: 140px; }
     .name { font-size: 20px; }
-    .name-one { font-size: 14px; }
+    .name-one { font-size: 14px; margin-left: 50px;}
     .skill-para span { font-size: 10px; padding: 4px 8px; }
     .close-icon{display: block;}
 
 }
+

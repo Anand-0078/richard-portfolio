@@ -580,7 +580,7 @@ nav{
     .header-section { display: none; }
     .hero-section img { width: 140px; height: 160px; }
     .name { font-size: 24px; }
-    .name-one { font-size: 16px; }
+    .name-one { font-size: 16px;margin-left: 50px;}
     .close-icon{display: block;}
 }
 
@@ -594,4 +594,5 @@ nav{
     .close-icon{display: block;}
 
 }
+
 
